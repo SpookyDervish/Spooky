@@ -22,6 +22,7 @@ Or this:
 name = "Jacob"
 ```
 
+
 You can define a comment with a semi-colon, like this:
 ```
 ; This is a comment!
