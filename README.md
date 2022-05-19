@@ -3,6 +3,8 @@
 
 Speaking of Python, **Spooky** is built off it!
 
+For now I'm not gonna add the source code because of how much of an early stage it's in.
+
 ### Syntax
 
 The Syntax of **Spooky** is mostly similar to Python, where a print statement looks like this:
