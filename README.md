@@ -3,27 +3,24 @@
 
 Speaking of Python, **Spooky** is built off it!
 
-For now I'm not gonna add the source code because of how much of an early stage it's in.
-
 ### Syntax
 
 The Syntax of **Spooky** is mostly similar to Python, where a print statement looks like this:
-```lua
+```py
 print("Hello World!\n")
 ```
 
 Defining variables is pretty simple.   
-You define a variable by first defining the variable name, then an equals sign and then the value.
+You define a variable by first doing the 'var' keyword , next define the variable name, next comes the equals sign, and then the value.
 
 Here is an example:
-```lua
+```py
 age = 16
 ```
 Or this:
-```lua
+```py
 name = "Jacob"
 ```
-
 
 You can define a comment with a semi-colon, like this:
 ```
